@@ -1,4 +1,4 @@
-package FirstStepsInCoding;
+package Excercises.FirstStepsInCoding;
 
 public class Expression {
     public static void main(String[] args) {

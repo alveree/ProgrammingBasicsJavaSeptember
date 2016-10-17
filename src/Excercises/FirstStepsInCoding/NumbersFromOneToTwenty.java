@@ -1,4 +1,4 @@
-package FirstStepsInCoding;
+package Excercises.FirstStepsInCoding;
 
 public class NumbersFromOneToTwenty {
     public static void main(String[] args) {

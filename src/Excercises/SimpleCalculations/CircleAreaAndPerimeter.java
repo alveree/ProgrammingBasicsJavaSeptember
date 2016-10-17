@@ -1,4 +1,4 @@
-package SimpleCalculations;
+package Excercises.SimpleCalculations;
 
 import java.util.Scanner;
 
